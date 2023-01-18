@@ -1,0 +1,1 @@
+salaried	Bob Foo	bob@foo.com	0	2600

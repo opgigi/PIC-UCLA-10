@@ -1,0 +1,1 @@
+hourly	Sally Bar	sally@bar.com	1	0	40
